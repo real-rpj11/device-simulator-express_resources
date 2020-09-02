@@ -11,9 +11,11 @@
 7. Type in "Device Simulator Express: New File" to create a new file then select the corresponding simulator
 
 
-Device Simulator Express
+**Resources**
+
+1. Device Simulator Express
 > https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress
 
-IoT exploration with VS Code, Python, and the Device Simulator Express
+2. IoT exploration with VS Code, Python, and the Device Simulator Express
 > https://devblogs.microsoft.com/python/iot-exploration-with-vs-code-python-and-the-device-simulator-express/
 
