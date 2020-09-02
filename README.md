@@ -1,6 +1,7 @@
 # device-simulator-express_resources
 > Device Simulator Express Resources
 
+---
 **Steps**
 1. Install Device Simulator Express to Visual Studio Code
 2. Type in "Device Simulator Express: Getting Started" in the command palette (Ctrl + Shift + P / Cmd + Shift + P to open the command palette).
@@ -11,7 +12,6 @@
 7. Type in "Device Simulator Express: New File" to create a new file then select the corresponding simulator
 
 ---
-
 **Resources**
 
 1. Device Simulator Express
