@@ -10,6 +10,7 @@
 5. Type in "Device Simulator Express: Open Simulator"
 6. Select a simulator: Circuit Playground Express, micro:bit, CLUE
 7. Type in "Device Simulator Express: New File" to create a new file then select the corresponding simulator
+8. To run a code, press the Play Button on the simulator. Click "Yes" when a prompt appears
 
 ---
 **Resources**
